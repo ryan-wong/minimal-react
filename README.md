@@ -8,6 +8,7 @@ These code is explained in this [blog post][post].
 
 **No installation required!** Just clone the repo (or download the files as zip) and open `index.html` in the browser
 
+
 ## Other Examples
 * `other_examples/with_jsx`: The same example using JSX 
 * `other_examples/third_party/third_party.html`: An example of using a 3rd party library
